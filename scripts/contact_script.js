@@ -12,4 +12,4 @@ function InitFlicker(cls){
     },0.3);
 }
 
-
+InitFlicker('.t3');
